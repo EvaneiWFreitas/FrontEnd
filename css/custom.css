@@ -1,0 +1,4 @@
+/**Troncando o tipo de fonte no body e html*/
+body, html{
+    font-family: 'Times New Roman', Times, serif;
+}
