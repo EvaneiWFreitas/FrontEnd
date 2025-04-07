@@ -1,6 +1,8 @@
 /* CONFIGURAÇÃO DE CORES */
 :root{
     --primary: #FC5185;
+    --primary-dark:#F83771;
     --secundary: #364f6b;
     --terceira:#FFA33D;
+
 }
